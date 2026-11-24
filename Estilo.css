@@ -1,0 +1,180 @@
+body{
+    background-color: #f5faf5;
+    font-family: "Montserrat", sans-serif;
+}
+li{
+    line-height: 24px;
+}
+
+ /*Contenedor principal*/ 
+.contenedor-principal{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(255, 255, 255);
+    width: 1200px;
+    margin: 60px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, .2)
+   }
+.txtorange{
+    color: orange;
+     font-weight: 700;
+    font-size: 16px;
+    line-height: 15px;
+
+    }
+.info-general{
+    padding: 20px 60px;
+}
+.timelab{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: rgb(59, 58, 58);
+}
+.nombre{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.textdesc{
+    width: 600px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+/* proyectos */
+
+/*.itemproy{
+    width: 600px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;  
+}*/
+
+.listproy{
+    width: 600px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 15px;
+    padding-left: 30px;
+    margin-bottom: 40px;
+}
+
+.ptosproy{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 3px; 
+    color: gray;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, .25);  
+}
+.enlaceproy{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+    color: gray;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, .25);  
+}
+/* experiencia laboral */
+
+.listexp{
+    width: 600px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 30px;   
+}
+
+.listedu{
+   width: 600px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 30px;   
+}
+.titulo-seccion-prin{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 15px;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    letter-spacing: 3px;
+   }
+.explabtit{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 15px;
+    margin-top: 15px;
+    margin-bottom: 12px; 
+}
+.timeedu{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgb(61, 60, 60);  
+}
+/* informacion secundaria */
+.infosec{
+   background-color: rgb(11, 11, 117);
+   padding: 20px 30px; 
+}
+.titulat{
+    color: azure;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+    margin-top: 50px;
+    letter-spacing: 3px;
+
+}
+.tipocont{
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right:5px ;
+}
+.deshv{
+    letter-spacing: 3px;
+}
+
+.contac, .skillt, .skillb{
+    margin-left: 40px;
+}
+.infocont{
+   color: gray;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;  
+}
+.lista-lat{
+    color: orange;
+}
+.elelistlat{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+}
+.fotop{
+    margin-left: 40px;
+    border-radius: 10px;
+}
